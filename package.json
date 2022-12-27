@@ -12,14 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "@quixo3/prisma-session-store": "^3.1.10",
-    "axios": "^1.2.1",
-    "bcrypt": "^5.1.0",
     "body-parser": "^1.20.1",
-    "express": "^4.18.2",
-    "express-session": "^1.17.3",
-    "nodemailer": "^6.8.0"
+    "express": "^4.18.2"
   },
   "devDependencies": {
-    "prisma": "^4.7.1"
+    "prisma": "^4.7.1",
+    "bcrypt": "^5.1.0",
+    "nodemailer": "^6.8.0",
+    "axios": "^1.2.1",
+    "express-session": "^1.17.3"
   }
 }
